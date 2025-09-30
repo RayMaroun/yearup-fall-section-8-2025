@@ -97,8 +97,15 @@ public class Main {
         System.out.println("===================================================");
         String potato = "";
 
-        if(potato.isEmpty()){
+        if (potato.isEmpty()) {
             System.out.println("This is empty!");
         }
+
+        System.out.println("===================================================");
+        String personName = "raymond";
+        //String fixedName = String.valueOf(personName.charAt(0)).toUpperCase()  + personName.substring(1);
+        String fixedName = personName.substring(0, 1).toUpperCase() + personName.substring(1);
+
+        System.out.println(fixedName);
     }
 }
