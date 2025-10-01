@@ -13,7 +13,7 @@ public class TheaterReservations {
         System.out.print("Please enter your name: ");
         String fullName = scanner.nextLine(); // Raymond Maroun
 
-        int indexOfSpace = fullName.indexOf(" ");
+        int indexOfSpace = fullName.indexOf(" "); // 7
         String firstName = fullName.substring(0, indexOfSpace); // Raymond
         String lastName = fullName.substring(indexOfSpace + 1); // Maroun
 
