@@ -1,0 +1,11 @@
+2025-10-07 21:55:34 launch
+2025-10-07 21:56:07 search : How many types of potatoes there is?
+2025-10-07 21:56:19 search : How to learn java
+2025-10-07 21:56:29 exit
+2025-10-07 21:57:27 launch
+2025-10-07 21:57:33 search : Hi everyone
+2025-10-07 21:57:36 search : potato
+2025-10-07 21:57:37 exit
+2025-10-07 22:51:02 launch
+2025-10-07 22:51:57 search : how to do french fries
+2025-10-07 22:52:11 exit
