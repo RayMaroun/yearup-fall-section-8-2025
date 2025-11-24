@@ -1,0 +1,10 @@
+2024-11-25 03:43:03 DEBUG App:2024-11-25 03:43:03 INFO  App:2024-11-25 03:43:03 WARN  App:2024-11-25 03:43:03 ERROR App:2024-11-25 03:43:03 FATAL App:2024-11-25 03:43:35 DEBUG App:20 - This is debug : ☕
+2024-11-25 03:43:35 INFO  App:24 - This is info : ☕
+2024-11-25 03:43:35 WARN  App:27 - This is warn : ☕
+2024-11-25 03:43:35 ERROR App:28 - This is error : ☕
+2024-11-25 03:43:35 FATAL App:29 - This is fatal : ☕
+2024-11-25 18:08:47 DEBUG App:21 - This is debug : ☕
+2024-11-25 18:08:47 INFO  App:25 - This is info : ☕
+2024-11-25 18:08:47 WARN  App:28 - This is warn : ☕
+2024-11-25 18:08:47 ERROR App:29 - This is error : ☕
+2024-11-25 18:08:47 FATAL App:30 - This is fatal : ☕
