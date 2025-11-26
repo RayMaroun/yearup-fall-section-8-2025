@@ -1,0 +1,9 @@
+type,id,title,genre,releaseYear,rating,field1,field2
+MOVIE,M001,The Shawshank Redemption,Drama,1994,9.3,Frank Darabont,142
+MOVIE,M002,Inception,Sci-Fi,2010,8.8,Christopher Nolan,148
+MOVIE,M003,The Dark Knight,Action,2008,9.0,Christopher Nolan,152
+MOVIE,M004,The Matrix,Sci-Fi,1999,8.7,The Wachowskis,136
+TVSHOW,T001,Breaking Bad,Crime,2008,9.5,5,62
+TVSHOW,T002,Stranger Things,Sci-Fi,2016,8.7,4,34
+TVSHOW,T003,Game of Thrones,Fantasy,2011,9.2,8,73
+TVSHOW,T004,The Office,Comedy,2005,9.0,9,201
