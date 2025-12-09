@@ -1,0 +1,14 @@
+Request: GET http://localhost:8080/products?name=potato&price=200
+Response: 200 OK and returning all products
+======================================================================================
+Request: GET http://localhost:8080/products/1
+Response: 200 OK, and returning one product
+======================================================================================
+Request: POST http://localhost:8080/products + 1 product in JSON format in the request body
+Response: 201 CREATED, and returning the same product but with the new generated id.
+======================================================================================
+Request: PUT http://localhost:8080/products/1 + 1 updated product in JSON format in the request body
+Response: 200 OK
+======================================================================================
+Request: DELETE http://localhost:8080/products/1
+Response: 204 NO CONTENT
