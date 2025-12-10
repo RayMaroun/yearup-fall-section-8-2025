@@ -1,7 +1,7 @@
 package com.pluralsight.ledger2.models;
 
 public class Transaction {
-    private int transactionId;
+    private Integer transactionId;
     private double amount;
     private String vendor;
 
@@ -10,17 +10,17 @@ public class Transaction {
         this.vendor = vendor;
     }
 
-    public Transaction(int transactionId, double amount, String vendor) {
+    public Transaction(Integer transactionId, double amount, String vendor) {
         this.transactionId = transactionId;
         this.amount = amount;
         this.vendor = vendor;
     }
 
-    public int getTransactionId() {
+    public Integer getTransactionId() {
         return transactionId;
     }
 
-    public void setTransactionId(int transactionId) {
+    public void setTransactionId(Integer transactionId) {
         this.transactionId = transactionId;
     }
 

@@ -1,19 +1,19 @@
 package com.pluralsight.NorthwindTradersAPI2.models;
 
 public class Category {
-    private int categoryId;
+    private Integer categoryId;
     private String categoryName;
 
-    public Category(int categoryId, String categoryName) {
+    public Category(Integer categoryId, String categoryName) {
         this.categoryId = categoryId;
         this.categoryName = categoryName;
     }
 
-    public int getCategoryId() {
+    public Integer getCategoryId() {
         return categoryId;
     }
 
-    public void setCategoryId(int categoryId) {
+    public void setCategoryId(Integer categoryId) {
         this.categoryId = categoryId;
     }
 
@@ -25,3 +25,4 @@ public class Category {
         this.categoryName = categoryName;
     }
 }
+

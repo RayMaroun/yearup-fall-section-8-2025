@@ -1,7 +1,7 @@
 package com.pluralsight.NorthwindTradersSpringBoot3.models;
 
 public class Product {
-    private int productId;
+    private Integer productId;
     private String productName;
     private int categoryId;
     private double unitPrice;
@@ -12,18 +12,18 @@ public class Product {
         this.unitPrice = unitPrice;
     }
 
-    public Product(int productId, String productName, int categoryId, double unitPrice) {
+    public Product(Integer productId, String productName, int categoryId, double unitPrice) {
         this.productId = productId;
         this.productName = productName;
         this.categoryId = categoryId;
         this.unitPrice = unitPrice;
     }
 
-    public int getProductId() {
+    public Integer getProductId() {
         return productId;
     }
 
-    public void setProductId(int productId) {
+    public void setProductId(Integer productId) {
         this.productId = productId;
     }
 
@@ -61,3 +61,4 @@ public class Product {
                 '}';
     }
 }
+
